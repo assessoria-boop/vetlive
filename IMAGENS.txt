@@ -1,0 +1,35 @@
+VET LIVE - ARQUIVOS QUE PRECISAM SER ADICIONADOS NESTA PASTA
+============================================================
+
+1) LOGO (tambem usada como favicon)
+   logo.webp            -> logo do Vet Live, quadrada, fundo transparente ou original
+                           Sugestao: 512x512px
+
+2) FOTOS DA CLINICA (hero, intercalam com fade a cada 5s)
+   DESKTOP (proporcao larga, ex: 1600x900px)
+   clinica-1.webp
+   clinica-2.webp
+   clinica-3.webp
+
+   MOBILE (proporcao mais fechada, ex: 900x700px)
+   clinica-1-mobile.webp
+   clinica-2-mobile.webp
+   clinica-3-mobile.webp
+
+   Obs: se quiser usar so uma foto, apague os slides foto-2 e foto-3
+   no HTML (bloco <div class="hero-foto">).
+
+3) PRINTS DAS AVALIACOES REAIS DO GOOGLE (carrossel de depoimentos)
+   1.webp
+   2.webp
+   3.webp
+   4.webp
+   5.webp
+   Sugestao: largura de 800px, altura livre.
+
+4) MICROSOFT CLARITY
+   No index.html, procure por COLOQUE_AQUI_O_ID_DO_CLARITY
+   e troque pelo ID do projeto do Clarity do Vet Live.
+
+Todas as imagens devem ser convertidas para .webp (qualidade 80-85)
+para manter o carregamento rapido.
