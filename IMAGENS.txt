@@ -28,8 +28,7 @@ VET LIVE - ARQUIVOS QUE PRECISAM SER ADICIONADOS NESTA PASTA
    Sugestao: largura de 800px, altura livre.
 
 4) MICROSOFT CLARITY
-   No index.html, procure por COLOQUE_AQUI_O_ID_DO_CLARITY
-   e troque pelo ID do projeto do Clarity do Vet Live.
+   Instalado. ID do projeto: y9g6s9u8iy
 
 Todas as imagens devem ser convertidas para .webp (qualidade 80-85)
 para manter o carregamento rapido.
